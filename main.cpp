@@ -23,7 +23,7 @@ int main()
   //in all other cases...
   else
   {
-  cout<<"?! Pssh. What are you talking about?\n";
+  cout<< sus<<"?! Pssh. What are you talking about?\n";
   } 
   //no matter what they enter...
   cout<<"The ASCII value is: "<<val<<"\n";
